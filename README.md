@@ -1,4 +1,5 @@
 # NayanRepoDemo
 This is my 1st Git Repository.
 <br>
-Author - Nayan Debnath
+Author - Nayan Debnat
+
